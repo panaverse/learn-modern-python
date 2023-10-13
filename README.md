@@ -4,6 +4,25 @@ This course is part of the [GenAI, Web 3, and Metaverse Program](https://docs.go
 
 After completing this course, move on to the [Learn Generative AI Repo](https://github.com/panaverse/learn-generative-ai)
 
+## Live Zoom Classes: Modern Python Crash Course for WMD Q1, Q2, and Q3
+
+Days : Monday, Tuesday, Thursday, Friday, Saturday, and Sunday
+
+Time : 08:00 PM to 10:00 PM
+
+Join Zoom Meeting
+
+https://us06web.zoom.us/j/82224691502?pwd=6Mq6Wt09uUkVLme859duUYP1Efww4K.1
+
+Meeting ID: 822 2469 1502
+
+Passcode: 936542
+
+This session will also be live streamed on YouTube:
+ 
+https://www.youtube.com/@panaverse/streams
+
+
 ## What is Modern Python?
 
 [Modern Python: New Features, Better Code](https://www.easypost.com/blog/2022-09-14-modern-python-new-features-better-code)
