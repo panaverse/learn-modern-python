@@ -2,6 +2,8 @@
 
 This course is part of the [GenAI, Web 3, and Metaverse Program](https://docs.google.com/presentation/d/1XVSZhmv4XH14YpyDxJIvYWiUrF1EO9tsUnle17wCLIc/edit?usp=sharing)
 
+After completing this course, move on the [Learn Generative AI Repo](https://github.com/panaverse/learn-generative-ai)
+
 ## What is Modern Python?
 
 [Modern Python: New Features, Better Code](https://www.easypost.com/blog/2022-09-14-modern-python-new-features-better-code)
