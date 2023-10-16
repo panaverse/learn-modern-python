@@ -1,7 +1,3 @@
-Certainly, you can make your `README.md` more structured and user-friendly by including better formatting and explanations. Below is a revised version of your existing `README.md` file.
-
----
-
 # Project Setup Guide
 
 This guide explains how to set up the development environment using Anaconda, Visual Studio Code (VS Code), and Python.
@@ -104,12 +100,7 @@ You can run a simple "Hello World" program to ensure that your Python setup is w
 1. Open `class1.ipynb` in Jupyter Notebook.
 2. Select your virtual environment as shown below:
 
-    ![Alt text](Screenshot 2023-10-16 at 10.34.08 PM.png)
+   ![Alt text](<Screenshot 2023-10-16 at 10.34.08 PM.png>)
 
     ![Alt text](image-1.png)
 
----
-
-That's it! You're now ready to start coding.
-
-Feel free to adjust this `README.md` according to your project's specific needs.
