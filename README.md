@@ -1,10 +1,10 @@
-# Learn Modern Python and Data Analysis
+# Learn Modern Python and Data Science
 
 This course is part of the [GenAI, Web 3, and Metaverse Program](https://docs.google.com/presentation/d/1XVSZhmv4XH14YpyDxJIvYWiUrF1EO9tsUnle17wCLIc/edit?usp=sharing)
 
 After completing this course, move on to the [Learn Generative AI Repo](https://github.com/panaverse/learn-generative-ai)
 
-## Live Zoom Classes: Modern Python Crash Course for WMD Q1, Q2, and Q3
+## Live Zoom Classes: Data Science and Modern Python Crash Course for WMD Q1, Q2, and Q3
 
 Days : Monday, Tuesday, Thursday, Friday, Saturday, and Sunday
 
