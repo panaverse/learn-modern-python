@@ -2,6 +2,9 @@
 
 This guide explains how to set up the development environment using Anaconda, Visual Studio Code (VS Code), and Python.
 
+## Youtube link 
+2 hours live session: https://www.youtube.com/watch?v=rwDHhx76MMg
+
 ## Prerequisites
 
 - [Anaconda](https://www.anaconda.com/products/individual#Downloads)
@@ -103,4 +106,6 @@ You can run a simple "Hello World" program to ensure that your Python setup is w
    ![Alt text](<Screenshot 2023-10-16 at 10.34.08 PM.png>)
 
     ![Alt text](image-1.png)
+
+
 
