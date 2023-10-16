@@ -33,7 +33,12 @@ mypy
 4. `pip install -r requirements.txt`
 5. select virtual env in **vscode**
     * open **class1.py**
-    ![Alt text](image-1.png)
+    1. ![Alt text](image-2.png)
+    2. ![Alt text](image-1.png)
+6. Select Virtual Env in **jupyter notebook**
+    1. ![Alt text](<Screenshot 2023-10-16 at 10.34.08 PM.png>)
+    2. ![Alt text](image-1.png)
+
     
 
 
