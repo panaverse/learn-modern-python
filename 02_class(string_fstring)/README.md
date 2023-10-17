@@ -117,20 +117,3 @@ my_variable: int = 10
 PI: float = 3.14159
 ```
 
-### Functions
-
-- Use `snake_case` for function names.
-
-```python
-def my_function():
-    pass
-```
-
-### Classes
-
-- Use `CamelCase` for class names.
-
-```python
-class MyClass:
-    pass
-```
