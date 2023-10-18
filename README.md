@@ -6,9 +6,9 @@ After completing this course, move on to the [Learn Generative AI Repo](https://
 
 ## Live Zoom Classes: Data Science and Modern Python Crash Course for WMD Q1, Q2, and Q3
 
-Days : Monday, Tuesday, Thursday, Friday, Saturday, and Sunday
+Days: Monday, Tuesday, Thursday, Friday, Saturday, and Sunday
 
-Time : 08:00 PM to 10:00 PM
+Time: 08:00 PM to 10:00 PM
 
 Join Zoom Meeting
 
@@ -46,6 +46,11 @@ https://www.youtube.com/@panaverse/streams
     conda env list
     conda activate myenv3_12
     python --version
+
+## Text Books
+
+1. [Python Crash Course 3rd Edition](https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702/ref=sr_1_1)
+2. [Chapter 5 of Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter 3rd Edition](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X/ref=sr_1_1)
 
 
 ## Learning Material
@@ -134,7 +139,8 @@ https://towardsdatascience.com/python-type-hinting-duck-type-compatibility-and-c
 
 [Pandas Project: Make a Gradebook With Python & Pandas](https://realpython.com/pandas-project-gradebook/)
 
-# Fundamentals of Modern Python and Data Analysis Quiz 
+# Fundamentals of Modern Python for Data Analysis Quiz
+ 
 
 Total Questions: 40
 
