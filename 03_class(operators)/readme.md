@@ -23,7 +23,7 @@ Python supports a variety of operators, which can be categorized as:
   - `//`: Floor division
   
 - **Comparison Operators**: `==`, `!=`, `>`, `<`, `>=`, `<=`
-- **Logical Operators**: `and`, `or`, `not`
+- **Logical Operators**: `and`, `or`, `not`, `:=`
 - ... and many more.
 
 For a comprehensive list, refer to the [official Python documentation](https://docs.python.org/3/reference/operators.html).
@@ -58,4 +58,4 @@ import this
 While some may seem cryptic, they all provide valuable insights into writing clean, readable, and efficient Python code.
 
 # youtube video link: 
-[youtube link](https://youtube.com/live/CLM7FxMH7vw)
+https://youtube.com/live/CLM7FxMH7vw
