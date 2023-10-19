@@ -58,4 +58,4 @@ import this
 While some may seem cryptic, they all provide valuable insights into writing clean, readable, and efficient Python code.
 
 # youtube video link: 
-https://youtube.com/live/CLM7FxMH7vw
+[youtube link](https://youtube.com/live/CLM7FxMH7vw)
