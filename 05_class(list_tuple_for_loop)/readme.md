@@ -2,6 +2,9 @@
 
 This document provides a comprehensive guide on various Python data structures such as lists and tuples, and covers loops and list comprehensions.
 
+## Youtube link 
+2 hours live session: https://youtube.com/live/53NX6h-ZENc
+
 ## Table of Contents
 1. [Lists](#lists)
 2. [For Loop](#for-loop)
