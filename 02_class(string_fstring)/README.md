@@ -1,5 +1,7 @@
 # Class 2: String Formatting and Definitions in Python with Static Typing
 
+## Youtube link 
+2 hours live session: https://youtube.com/live/rwDHhx76MMg
 ## Table of Contents
 
 - [String Definitions](#string-definitions)
