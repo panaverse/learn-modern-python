@@ -6,6 +6,9 @@ This guide briefly introduces some of the foundational concepts in the Python pr
 - Comments
 - Zen of Python
 
+## Youtube link 
+2 hours live session: https://youtube.com/live/CLM7FxMH7vw
+
 ## Python Operators
 ![Alt text](Whiteboard%5B1%5D-01.png)
 
