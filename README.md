@@ -18,9 +18,11 @@ Meeting ID: 822 2469 1502
 
 Passcode: 936542
 
-This session will also be live streamed on YouTube:
+This session will also be live-streamed on YouTube:
  
 https://www.youtube.com/@panaverse/streams
+
+## [Recorded Classes YouTube Playlist](https://www.youtube.com/playlist?list=PL0vKVrkG4hWrEujmnC7v2mSiaXMV_Tfu0)
 
 
 ## What is Modern Python?
