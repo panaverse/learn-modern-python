@@ -69,6 +69,8 @@ Resources for Python Crash Course](https://ehmatthes.github.io/pcc_3e/)
 3. [Python end parameter in print()](https://www.geeksforgeeks.org/gfact-50-python-end-parameter-in-print/)
 
 4. Typing
+   
+https://www.infoworld.com/article/3630372/get-started-with-python-type-hints.html
 
 https://realpython.com/python-type-checking/
 
