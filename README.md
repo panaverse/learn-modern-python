@@ -72,7 +72,7 @@ Resources for Python Crash Course](https://ehmatthes.github.io/pcc_3e/)
    
 https://www.infoworld.com/article/3630372/get-started-with-python-type-hints.html
 
-https://www.digitalocean.com/community/tutorials/python-typing-module
+https://peps.python.org/pep-0484/#type-aliases
 
 https://realpython.com/python-type-checking/
 
