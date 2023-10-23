@@ -133,7 +133,7 @@ Type Statements:
 
 https://docs.python.org/3.12/reference/simple_stmts.html#the-type-statement 
 
-CAllable:
+Python's .__call__() Method: Creating Callable Instances:
 
 https://realpython.com/python-callable-instances/
 
