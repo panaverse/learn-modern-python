@@ -80,13 +80,6 @@ https://www.infoworld.com/article/3630372/get-started-with-python-type-hints.htm
 
 https://peps.python.org/pep-0484/#type-aliases
 
-https://realpython.com/python-type-checking/
-
-https://docs.python.org/3/library/typing.html 
-
-https://www.javatpoint.com/type-hint-concepts-to-improve-python-code 
-
-Note: The last article is not current because it does not use collections.abc 
 
 [Typing Cheat Sheet](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)
 
