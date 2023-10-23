@@ -63,8 +63,7 @@ We will cover Python version 3.12+ with the Latest Features
 
 1. [Chapters 1-10 of Python Crash Course 3rd Edition](https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702/ref=sr_1_1)
 
-[Update the Book Code with Type Hints
-Resources for Python Crash Course](https://ehmatthes.github.io/pcc_3e/)
+[Additional Resources for Python Crash Course](https://ehmatthes.github.io/pcc_3e/)
 
 [Google Colaboratory](https://colab.google/)
 
