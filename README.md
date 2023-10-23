@@ -71,9 +71,11 @@ We will cover Python version 3.12+ with the Latest Features
 
 3. [Python end parameter in print()](https://www.geeksforgeeks.org/gfact-50-python-end-parameter-in-print/)
    
-4. [*args and **kwargs in Python](https://www.geeksforgeeks.org/args-kwargs-python/)
+4. [Lambda Function](https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/)
+   
+5. [*args and **kwargs in Python](https://www.geeksforgeeks.org/args-kwargs-python/)
 
-5. Typing
+6. Typing
    
 https://www.infoworld.com/article/3630372/get-started-with-python-type-hints.html
 
@@ -82,13 +84,13 @@ https://peps.python.org/pep-0484/#type-aliases
 
 [Typing Cheat Sheet](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)
 
-6. Abstract Base Classes (collections.abc)
+7. Abstract Base Classes (collections.abc)
 
 https://www.youtube.com/watch?v=oUt1feRoyvI 
 
 https://docs.python.org/3/library/collections.abc.html 
 
-7. Yield in Python
+8. Yield in Python
 
 https://www.simplilearn.com/tutorials/python-tutorial/yield-in-python 
 
@@ -105,7 +107,7 @@ Then define the function that returns yield:
     def my_generator()-> Iterator[int]:
         function statements
 
-8. Advanced Classes Topics in Python
+9. Advanced Classes Topics in Python
 
 Class Attributes and Methods vs Instance Attributes and Methods in Python
 
@@ -131,7 +133,11 @@ Type Statements:
 
 https://docs.python.org/3.12/reference/simple_stmts.html#the-type-statement 
 
-9. [Chapter 5 of Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter 3rd Edition](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X/ref=sr_1_1)
+CAllable:
+
+https://realpython.com/python-callable-instances/
+
+10. [Chapter 5 of Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter 3rd Edition](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X/ref=sr_1_1)
 
 Additional Readings:
 
