@@ -71,8 +71,10 @@ Resources for Python Crash Course](https://ehmatthes.github.io/pcc_3e/)
 2. [How to Determine the Type of an Object in Python?](https://itslinuxfoss.com/determine-type-object-python/) 
 
 3. [Python end parameter in print()](https://www.geeksforgeeks.org/gfact-50-python-end-parameter-in-print/)
+   
+4. [*args and **kwargs in Python](https://www.geeksforgeeks.org/args-kwargs-python/)
 
-4. Typing
+5. Typing
    
 https://www.infoworld.com/article/3630372/get-started-with-python-type-hints.html
 
@@ -88,13 +90,13 @@ Note: The last article is not current because it does not use collections.abc
 
 [Typing Cheat Sheet](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)
 
-5. Abstract Base Classes (collections.abc)
+6. Abstract Base Classes (collections.abc)
 
 https://www.youtube.com/watch?v=oUt1feRoyvI 
 
 https://docs.python.org/3/library/collections.abc.html 
 
-6. Yield in Python
+7. Yield in Python
 
 https://www.simplilearn.com/tutorials/python-tutorial/yield-in-python 
 
@@ -111,7 +113,7 @@ Then define the function that returns yield:
     def my_generator()-> Iterator[int]:
         function statements
 
-7. Advanced Classes Topics in Python
+8. Advanced Classes Topics in Python
 
 Class Attributes and Methods vs Instance Attributes and Methods in Python
 
@@ -137,7 +139,7 @@ Type Statements:
 
 https://docs.python.org/3.12/reference/simple_stmts.html#the-type-statement 
 
-8. [Chapter 5 of Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter 3rd Edition](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X/ref=sr_1_1)
+9. [Chapter 5 of Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter 3rd Edition](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X/ref=sr_1_1)
 
 Additional Readings:
 
