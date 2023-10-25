@@ -138,6 +138,7 @@ Python's .__call__() Method: Creating Callable Instances:
 https://realpython.com/python-callable-instances/
 
 10. [Chapter 5 of Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter 3rd Edition](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X/ref=sr_1_1)
+11. [Python in Microsoft Excel Second Editon ](https://www.linkedin.com/posts/financial-modeling-world-cup_python-in-excel-ugcPost-7118239470105075712-5xFJ)
 
 Additional Readings:
 
