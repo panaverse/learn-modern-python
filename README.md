@@ -72,10 +72,11 @@ We will cover Python version 3.12+ with the Latest Features
 3. [Python end parameter in print()](https://www.geeksforgeeks.org/gfact-50-python-end-parameter-in-print/)
    
 4. [Lambda Function](https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/)
+5. [Understanding Pass-by-Value vs. Pass-by-Reference and Mutable vs. Immutable in Python](https://www.linkedin.com/pulse/understanding-pass-by-value-vs-pass-by-reference-elhousieny-phd%E1%B4%AC%E1%B4%AE%E1%B4%B0/)
    
-5. [*args and **kwargs in Python](https://www.geeksforgeeks.org/args-kwargs-python/)
+6. [*args and **kwargs in Python](https://www.geeksforgeeks.org/args-kwargs-python/)
 
-6. Typing
+7. Typing
    
 https://www.infoworld.com/article/3630372/get-started-with-python-type-hints.html
 
@@ -84,13 +85,13 @@ https://peps.python.org/pep-0484/#type-aliases
 
 [Typing Cheat Sheet](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)
 
-7. Abstract Base Classes (collections.abc)
+8. Abstract Base Classes (collections.abc)
 
 https://www.youtube.com/watch?v=oUt1feRoyvI 
 
 https://docs.python.org/3/library/collections.abc.html 
 
-8. Yield in Python
+9. Yield in Python
 
 https://www.simplilearn.com/tutorials/python-tutorial/yield-in-python 
 
@@ -107,7 +108,9 @@ Then define the function that returns yield:
     def my_generator()-> Iterator[int]:
         function statements
 
-9. Advanced Classes Topics in Python
+10. Advanced Classes Topics in Python
+
+https://www.codingninjas.com/studio/library/how-everything-in-python-is-an-object
 
 Class Attributes and Methods vs Instance Attributes and Methods in Python
 
