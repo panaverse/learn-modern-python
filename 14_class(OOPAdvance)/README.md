@@ -1,7 +1,7 @@
 Covers the topics you mentioned, with explanations and Python code examples. This file is written with Markdown syntax and includes Python code blocks with static type annotations.
 
 
-```markdown
+
 # Python Static Type Code Examples
 
 This repository contains examples and explanations of various Python concepts, focusing on static type annotations.
