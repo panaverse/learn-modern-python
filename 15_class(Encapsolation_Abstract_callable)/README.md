@@ -17,6 +17,8 @@ This package demonstrates the basic concepts of object-oriented programming (OOP
 - **Encapsulation:** Protects the internal state of objects through getters and setters.
 - **Abstract Class:** Defines a blueprint for other classes with abstract methods.
 - **Special Methods:** Implements `__str__`, `__repr__`, and `__call__` for class instances.
+-- **Duck Typing**
+Duck Typing: Employ Python’s dynamic typing feature that focuses on the presence of methods and properties, not the type of the object.
 
 ## Installation
 
@@ -113,6 +115,39 @@ class SpecialMethodsExample:
     def __call__(self, *args, **kwargs):
         return f"Called with args: {args} and kwargs: {kwargs}"
 ```
+
+## Duck Typing Example
+
+In Python, duck typing is an application of the dynamic typing paradigm which does not look at an object's type itself but instead, the methods and properties that object has.
+
+```python
+class Duck:
+    def quack(self):
+        print("Quack, quack!")
+    
+    def walk(self):
+        print("Walk like a duck.")
+
+class Person:
+    def quack(self):
+        print("I'm Quacking like a duck!")
+    
+    def walk(self):
+        print("I'm walking like a duck!")
+
+def duck_test(animal):
+    animal.quack()
+    animal.walk()
+
+# Duck Typing in action
+duck = Duck()
+person = Person()
+
+duck_test(duck)   # Behaves like a duck
+duck_test(person) # Also 'quacks' and 'walks' like a duck
+```
+
+The above code snippet does not concern itself with the type of the object passed to the function `duck_test`. Instead, it just calls the methods without checking the type. This is the essence of duck typing.
 
 ## Creating and Uploading a Package to PyPI
 
