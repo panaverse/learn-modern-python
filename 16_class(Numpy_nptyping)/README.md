@@ -102,3 +102,25 @@ Ensure that you have some test arrays and conditions set up in the script to dem
 
 Feel free to fork the project and submit a pull request with your additions or fixes.
 
+## References
+
+The following resources provide additional information on `nptyping` and its usage for type hinting with Numpy arrays:
+
+- [nptyping on PyPI](https://pypi.org/project/nptyping/) - Official PyPI listing of `nptyping`. (Shared by Sir Zia Khan at 5:54 AM, 11/3/2023)
+- [nptyping functions overview on Snyk Advisor](https://snyk.io/advisor/python/nptyping/functions/nptyping.NDArray) - A comprehensive overview of `nptyping.NDArray` functions. (Shared by Sir Zia Khan at 5:59 AM, 11/3/2023)
+- [Stack Overflow: Advantages of nptyping.NDArray over np.ndarray](https://stackoverflow.com/questions/76105551/for-type-hinting-purposes-what-are-the-advantages-of-np-typing-ndarrray-over-np) - A Stack Overflow discussion on the benefits of using `nptyping.NDArray` for type hinting. (Shared by Sir Zia Khan at 6:25 AM, 11/3/2023)
+- [nptyping User Documentation](https://github.com/ramonhagenaars/nptyping/blob/master/USERDOCS.md#Quickstart) - The Quickstart section of the `nptyping` user documentation on GitHub. (Shared by Sir Zia Khan at 6:51 AM, 11/3/2023)
+
+Please note that the information was provided by Sir Zia Khan and the timestamps reflect when the information was communicated.
+## References
+
+The following resources provide additional information on `nptyping` and its usage for type hinting with Numpy arrays:
+
+- [nptyping on PyPI](https://pypi.org/project/nptyping/) - Official PyPI listing of `nptyping`. (Shared by Sir Zia Khan at 5:54 AM, 11/3/2023)
+- [nptyping functions overview on Snyk Advisor](https://snyk.io/advisor/python/nptyping/functions/nptyping.NDArray) - A comprehensive overview of `nptyping.NDArray` functions. (Shared by Sir Zia Khan at 5:59 AM, 11/3/2023)
+- [Stack Overflow: Advantages of nptyping.NDArray over np.ndarray](https://stackoverflow.com/questions/76105551/for-type-hinting-purposes-what-are-the-advantages-of-np-typing-ndarrray-over-np) - A Stack Overflow discussion on the benefits of using `nptyping.NDArray` for type hinting. (Shared by Sir Zia Khan at 6:25 AM, 11/3/2023)
+- [nptyping User Documentation](https://github.com/ramonhagenaars/nptyping/blob/master/USERDOCS.md#Quickstart) - The Quickstart section of the `nptyping` user documentation on GitHub. (Shared by Sir Zia Khan at 6:51 AM, 11/3/2023)
+
+
+
+
