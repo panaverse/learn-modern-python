@@ -20,7 +20,7 @@ Each Class contains a reference to Class Recording Video Link
 
 [Modern Good Practices for Python Development](https://www.stuartellis.name/articles/python-modern-practices/)
 
-[Type Checking in Python](https://www.youtube.com/watch?v=kSXZHRsWXfU)
+[Python's type system explained: Static vs dynamic typing](https://www.youtube.com/watch?v=kSXZHRsWXfU)
 
 
 # Installation
