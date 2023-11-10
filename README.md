@@ -11,7 +11,7 @@ After completing this course, move on to the [Learn Generative AI Repo](https://
 
 Note:
 
-Each Class contains a reference to Class Recording Video Link 
+Each Class Notebook contains a reference to the Class Recording Video Link 
 
 
 ## What is Modern Python?
