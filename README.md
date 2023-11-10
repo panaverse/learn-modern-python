@@ -52,7 +52,7 @@ Each Class Notebook contains a reference to the Class Recording Video Link
 
 [Pandas Project: Make a Gradebook With Python & Pandas](https://realpython.com/pandas-project-gradebook/)
 
-# Fundamentals of Modern Python and Data Analysis Quiz
+## Fundamentals of Modern Python and Data Analysis Quiz
 
 Learning Material: All the Material Covered in this Course i.e. this repo
 
@@ -60,7 +60,7 @@ Total Questions: 40
 
 Duration: 60 minutes 
 
-# Corrections
+## Corrections
 
 As of Python 3.9, type aliases like List, Tuple, Dict, ... are [deprecated](https://docs.python.org/3/library/typing.html#deprecated-aliases).
 
