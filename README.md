@@ -51,6 +51,18 @@ The goal of Type Hints is to help developer tools find bugs in Python codebases 
 1. [Python Crash Course 3rd Edition](https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702/ref=sr_1_1)
 2. [Chapter 5 of Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter 3rd Edition](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X/ref=sr_1_1)
 
+## Reference Book
+
+[Fluent Python: Clear, Concise, and Effective Programming 2nd Edition](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359/ref=tmm_pap_swatch_0)
+
+Important Note: 
+
+Chapters 8 and 15 have detailed discussions on the latest typing functionality, however, the book doesn't mention that as of Python 3.9, type aliases like List, Tuple, Dict, ... are [deprecated](https://docs.python.org/3/library/typing.html#deprecated-aliases).
+
+So, we use should the built-in types list, tuple, dict, ...
+
+[Using List/Tuple/etc. from typing vs directly referring type as list/tuple/etc](https://stackoverflow.com/questions/39458193/using-list-tuple-etc-from-typing-vs-directly-referring-type-as-list-tuple-etc)
+
 
 ## Projects
 
@@ -68,10 +80,6 @@ Duration: 60 minutes
 
 ## Corrections
 
-As of Python 3.9, type aliases like List, Tuple, Dict, ... are [deprecated](https://docs.python.org/3/library/typing.html#deprecated-aliases).
 
-So, from then on, use the built-in types list, tuple, dict, ...
-
-[Using List/Tuple/etc. from typing vs directly referring type as list/tuple/etc](https://stackoverflow.com/questions/39458193/using-list-tuple-etc-from-typing-vs-directly-referring-type-as-list-tuple-etc)
 
 
