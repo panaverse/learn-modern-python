@@ -22,7 +22,7 @@ Each Class Notebook contains a reference to the Class Recording Video Link
 
 [Python's type system explained: Static vs dynamic typing](https://www.youtube.com/watch?v=kSXZHRsWXfU)
 
-Type Hints should be used by Professional Developers: 
+### Type Hints should be used by Professional Developers
 
 Type hints are the biggest change in the history of Python since the unification of types and classes in Python 2.2, released in 2001. However, type hints do not benefit all Python users equally. That’s why they should always be optional.
 
