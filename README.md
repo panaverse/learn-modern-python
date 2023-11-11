@@ -59,7 +59,7 @@ Important Note:
 
 Chapters 8 and 15 have detailed discussions on the latest typing functionality, however, the book doesn't mention that as of Python 3.9, type aliases like List, Tuple, Dict, ... are [deprecated](https://docs.python.org/3/library/typing.html#deprecated-aliases).
 
-So, we use should the built-in types list, tuple, dict, ...
+So, we should use the built-in types list, tuple, dict, ...
 
 [Using List/Tuple/etc. from typing vs directly referring type as list/tuple/etc](https://stackoverflow.com/questions/39458193/using-list-tuple-etc-from-typing-vs-directly-referring-type-as-list-tuple-etc)
 
