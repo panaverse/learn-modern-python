@@ -78,7 +78,6 @@ Total Questions: 40
 
 Duration: 60 minutes 
 
-## Corrections
 
 
 
