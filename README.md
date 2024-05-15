@@ -31,7 +31,7 @@ The goal of Type Hints is to help developer tools find bugs in Python codebases 
 
 # Installation
 
-[Install Anaconda with Python 3.12](https://www.anaconda.com/download) 
+[Install Python Poetry](https://python-poetry.org/docs/) 
 
 [Install VS Code](https://code.visualstudio.com/)
 
@@ -39,12 +39,7 @@ The goal of Type Hints is to help developer tools find bugs in Python codebases 
 
 [Read this Document for Reference](https://python.plainenglish.io/typed-python-for-typescript-developers-791145e7171c)
 
-## Commands to Upgrade to Latest Python 3.12 in Anaconda
 
-    conda create --name myenv3_12 python=3.12
-    conda env list
-    conda activate myenv3_12
-    python --version
 
 ## Text Books
 
