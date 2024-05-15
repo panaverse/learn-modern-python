@@ -1,4 +1,4 @@
-# Learn Modern Python for Data Analysis
+# Learn Modern Python for Custome GPT and AI Agent Development
 
 This course is part of the [GenAI, Web 3, and Metaverse Program](https://docs.google.com/presentation/d/1XVSZhmv4XH14YpyDxJIvYWiUrF1EO9tsUnle17wCLIc/edit?usp=sharing)
 
@@ -64,6 +64,10 @@ So, we should use the built-in types list, tuple, dict, ...
 [Comprehensive Data Analysis with Pandas](https://www.kaggle.com/code/prashant111/comprehensive-data-analysis-with-pandas)
 
 [Pandas Project: Make a Gradebook With Python & Pandas](https://realpython.com/pandas-project-gradebook/)
+
+## Design Patterns in Python
+
+https://www.youtube.com/playlist?list=PLj5pwj8JzJ10U_jG1BwfgPO8pf1LywfDt
 
 ## Fundamentals of Modern Python and Data Analysis Quiz
 
