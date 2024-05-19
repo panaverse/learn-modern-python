@@ -43,7 +43,7 @@ The goal of Type Hints is to help developer tools find bugs in Python codebases 
 
 ## Text Books
 
-1. [Python Crash Course 3rd Edition](https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702/ref=sr_1_1)
+1. [Python Crash Course 3rd Edition](https://edisciplinas.usp.br/pluginfile.php/7880239/mod_folder/content/0/Eric%20Matthes%20-%20Python%20Crash%20Course-No%20Starch%20Press%20%282023%29.pdf)
 2. [Chapter 5 of Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter 3rd Edition](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X/ref=sr_1_1)
 
 ## Reference Book
